@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "4cdffc37-b944-4a4d-8c3d-d44ce5a43fe1",
+      "name": "Andrii",
+      "number": "111-11-11"
+    },
+    {
+      "id": "88dad377-fb7b-403f-b515-e9c6ef031812",
+      "name": "Gena",
+      "number": "222-22-22"
+    },
+    {
+      "id": "b2de305c-42e8-4d36-9db8-178829311e75",
+      "name": "Den",
+      "number": "333-33-33"
+    }
+  ]
+}
